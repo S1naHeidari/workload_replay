@@ -1,3 +1,2 @@
-index,function,endpoint,number,uuid,1,2
-1,float,http://192.168.56.10:31112/function/float-operation,10,1234,600,550
-2,linpack,http://192.168.56.10:31112/function/linpack,10,1234,600,550
+index,function,endpoint,data,1,2
+1,s3,http://192.168.56.10:32727/s3-operation,input_bucket:vidsbucket|object_key:input/vids|output_bucket:downloadedvids|key_id:cu7oaEMkZhQ6WXmouxYY|access_key:WmzOQrLaL6bwzlxJ5BZ8eU3twCLioqTGX6YgxQcx|uuid:1234,600,550
